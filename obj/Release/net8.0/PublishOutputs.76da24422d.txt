@@ -1,0 +1,13 @@
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\appsettings.json
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cursos\Senai\FullStack\C-SHARP\Projeto_Web_Lh_Pets_versão_1\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
